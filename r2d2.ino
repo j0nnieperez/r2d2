@@ -26,7 +26,7 @@ void GiroI(){
   digitalWrite(turnL, HIGH);
   digitalWrite(turnR, LOW); 
 }
-void GiroI(){
+void GiroD(){
   digitalWrite(turnR, HIGH);
   digitalWrite(turnL, LOW); 
 }
